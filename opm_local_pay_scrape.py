@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 16 06:44:08 2024
-
-@author: Erfan.Alikhani
-"""
-
 import datetime
 import pandas as pd
 import requests
